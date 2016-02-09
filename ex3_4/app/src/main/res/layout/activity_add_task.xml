@@ -10,30 +10,70 @@
     tools:showIn="@layout/activity_add_task"
     tools:context=".activities.AddTaskActivity">
 
-    <EditText
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:id="@+id/button_add_task"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/editDescription"
-        android:layout_toLeftOf="@id/editDescription"
-        android:hint="Description"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:layout_marginRight="0dp"
-        android:layout_marginEnd="0dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentLeft="true"
+        android:layout_alignLeft="@+id/editDescription"
+        android:layout_alignRight="@+id/editDescription"
+        android:layout_centerVertical="true"
+        android:background="@drawable/blue_button"
+        android:onClick="addNewTask"
+        android:text="Done"
+        android:textColor="@android:color/white"
+
+        />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_above="@id/button_add_task"
+        android:layout_alignLeft="@+id/button_add_task"
+
+        android:layout_margin="10dp">
+
+    <Button
+        android:id="@+id/taskDateEdit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="date"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:hint="Pick Date.."
+        android:onClick="showDatePickerDialog"
         />
 
     <Button
+        android:id="@+id/taskTimeEdit"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Done"
-        android:onClick="addNewTask"
-        android:id="@+id/button_add_task"
-        android:layout_below="@+id/editDescription"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:inputType="time"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:hint="Pick Time.."
+        android:onClick="showTimePickerDialog"
+
+        />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/editDescription"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:background="@drawable/my_et_background"
+        android:ems="10"
+        android:hint="description"
+        android:padding="5dp"
+        android:textSize="25sp"
+
+
+        />
+
+
+
 
 
 </RelativeLayout>

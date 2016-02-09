@@ -2,123 +2,67 @@
 <items version="2" >
 
     <item
-        jar="/Users/Hila/Downloads/Targil3_4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jar="/Users/Hila/Documents/Git/Persistence/ex3_4/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="/Users/Hila/Downloads/Targil3_4/app/build/intermediates/pre-dexed/debug/classes-7944e885d92aca4bc35edb25c6f939c2242fca63.jar" />
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/Hila/Documents/Git/Persistence/ex3_4/app/build/intermediates/pre-dexed/debug/classes-061af1b6b38c7bcbd1ad9f89b164bbcf87f6f7c2.jar" />
     </item>
     <item
-        jar="/Users/Hila/Downloads/Targil3_4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jar="/Users/Hila/Documents/Git/Persistence/ex3_4/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
-        <dex dex="/Users/Hila/Downloads/Targil3_4/app/build/intermediates/pre-dexed/debug/classes-1372635d1ca00e8a6e5ef4fbcc7c0efc00a202b1.jar" />
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/Hila/Documents/Git/Persistence/ex3_4/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-d3e82286e232363070900481bf850b1f75039060.jar" />
     </item>
     <item
-        jar="/Users/Hila/Documents/backup/ex3_4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jar="/Users/Hila/Documents/Git/Persistence/ex3_4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
-        <dex dex="/Users/Hila/Documents/backup/ex3_4/app/build/intermediates/pre-dexed/debug/classes-316cba4838267a10f08f52640679f48d1f888cda.jar" />
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/Hila/Documents/Git/Persistence/ex3_4/app/build/intermediates/pre-dexed/debug/classes-2fdb913e651592617420dae68ee7fcb1dfb5d174.jar" />
     </item>
     <item
-        jar="/Users/Hila/Downloads/Targil3_4/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/jars/classes.jar"
+        jar="/Users/Hila/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
-        <dex dex="/Users/Hila/Downloads/Targil3_4/app/build/intermediates/pre-dexed/debug/classes-aacc2a517d352967cd4cbaa674e96ef5779ec42a.jar" />
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/Hila/Documents/Git/Persistence/ex3_4/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-08e31d813039db841076db6e45aec16f31629f51.jar" />
     </item>
     <item
-        jar="/Users/Hila/Documents/backup/ex3_4/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jar="/Users/Hila/Documents/Git/Persistence/ex3_4/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
-        <dex dex="/Users/Hila/Documents/backup/ex3_4/app/build/intermediates/pre-dexed/debug/classes-34d4a23ae9b9a0054d723230d453d5351a7e52fc.jar" />
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/Hila/Documents/Git/Persistence/ex3_4/app/build/intermediates/pre-dexed/debug/classes-73d0a9c32cc4c4843ebf06879bbbac89d2233eba.jar" />
     </item>
     <item
-        jar="/Users/Hila/Documents/backup/ex3_4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jar="/Users/Hila/Documents/Git/Persistence/ex3_4/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="/Users/Hila/Documents/backup/ex3_4/app/build/intermediates/pre-dexed/debug/classes-19d78efa08165bd87fc7a28680bffeb4b6b3ea5d.jar" />
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/Hila/Documents/Git/Persistence/ex3_4/app/build/intermediates/pre-dexed/debug/classes-c345e6fb869310af4cca6bec8b236b1fbe6326cf.jar" />
     </item>
     <item
-        jar="/Users/Hila/Documents/backup/ex3_4/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jar="/Users/Hila/Documents/Git/Persistence/ex3_4/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="/Users/Hila/Documents/backup/ex3_4/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-3d4f93465adb33b02d66098419502ebd2f716c5f.jar" />
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/Hila/Documents/Git/Persistence/ex3_4/app/build/intermediates/pre-dexed/debug/classes-758dc81d6bf967d9ef425e68501c857559a6c1fe.jar" />
     </item>
     <item
-        jar="/Users/Hila/Downloads/Targil3_4/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
-        <dex dex="/Users/Hila/Downloads/Targil3_4/app/build/intermediates/pre-dexed/debug/classes-eb3a38ca76510781dd91d8eac9084750857685fa.jar" />
-    </item>
-    <item
-        jar="/Users/Hila/Documents/backup/ex3_4/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
-        <dex dex="/Users/Hila/Documents/backup/ex3_4/app/build/intermediates/pre-dexed/debug/classes-f81432b902142bb683997b79059aca39100d3cc0.jar" />
-    </item>
-    <item
-        jar="/Users/Hila/Downloads/Targil3_4/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="/Users/Hila/Downloads/Targil3_4/app/build/intermediates/pre-dexed/debug/classes-0af4f5b732226a63c58c9d135faeac89d92aa0d0.jar" />
-    </item>
-    <item
-        jar="/Users/Hila/Documents/backup/ex3_4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jar="/Users/Hila/Documents/Git/Persistence/ex3_4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
-        <dex dex="/Users/Hila/Documents/backup/ex3_4/app/build/intermediates/pre-dexed/debug/classes-0c08120199e600d5fa7790c761729f0a3c8520c6.jar" />
+        <dex dex="/Users/Hila/Documents/Git/Persistence/ex3_4/app/build/intermediates/pre-dexed/debug/classes-65b89486edac258a496e215e9782cf3938f15c0e.jar" />
     </item>
     <item
-        jar="/Users/Hila/Documents/backup/ex3_4/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jar="/Users/Hila/Documents/Git/Persistence/ex3_4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
-        <dex dex="/Users/Hila/Documents/backup/ex3_4/app/build/intermediates/pre-dexed/debug/classes-e8c4768e2998b102573dc012f3e363725b84507b.jar" />
-    </item>
-    <item
-        jar="/Users/Hila/Downloads/Targil3_4/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
-        <dex dex="/Users/Hila/Downloads/Targil3_4/app/build/intermediates/pre-dexed/debug/classes-cce557a2b4fbfcbb3b3a1ef7debd5e18dad5dd41.jar" />
-    </item>
-    <item
-        jar="/Users/Hila/Documents/backup/ex3_4/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="/Users/Hila/Documents/backup/ex3_4/app/build/intermediates/pre-dexed/debug/classes-72cec6f232d931b8478e8981d9b16f5ba6b96fda.jar" />
-    </item>
-    <item
-        jar="/Users/Hila/Downloads/Targil3_4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
-        <dex dex="/Users/Hila/Downloads/Targil3_4/app/build/intermediates/pre-dexed/debug/classes-4312a53bb1508dd89fbb6d35cb42f8fae85e7046.jar" />
-    </item>
-    <item
-        jar="/Users/Hila/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="/Users/Hila/Downloads/Targil3_4/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-8c488b7b4246a36cd63f7a1610d892008f2dbc0e.jar" />
-    </item>
-    <item
-        jar="/Users/Hila/Downloads/Targil3_4/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="/Users/Hila/Downloads/Targil3_4/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-b41f6f108b121cdfb51b491b243ea9196900c894.jar" />
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/Hila/Documents/Git/Persistence/ex3_4/app/build/intermediates/pre-dexed/debug/classes-ed31874c3f0f65fcc2b63b7d8a30e63d6b9b1926.jar" />
     </item>
 
 </items>
